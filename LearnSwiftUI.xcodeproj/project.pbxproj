@@ -24,6 +24,7 @@
 		166308E326A42DE400801CD9 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 166308E226A42DE400801CD9 /* start.txt */; };
 		166308E526A4315700801CD9 /* TestAnimationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 166308E426A4315700801CD9 /* TestAnimationsView.swift */; };
 		166C17B626D6AFD200F13F18 /* CustomComponentWithBindingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 166C17B526D6AFD200F13F18 /* CustomComponentWithBindingView.swift */; };
+		166C17B826D7AF1F00F13F18 /* SizeClassesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 166C17B726D7AF1F00F13F18 /* SizeClassesView.swift */; };
 		167960E626C83B95006AA684 /* ImagePaintSampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 167960E526C83B95006AA684 /* ImagePaintSampleView.swift */; };
 		167960E826C83DCB006AA684 /* DrawingGroupSampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 167960E726C83DCB006AA684 /* DrawingGroupSampleView.swift */; };
 		167960EA26C97D12006AA684 /* BlurBlendMoreEffectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 167960E926C97D12006AA684 /* BlurBlendMoreEffectsView.swift */; };
@@ -65,6 +66,7 @@
 		166308E226A42DE400801CD9 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 		166308E426A4315700801CD9 /* TestAnimationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestAnimationsView.swift; sourceTree = "<group>"; };
 		166C17B526D6AFD200F13F18 /* CustomComponentWithBindingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomComponentWithBindingView.swift; sourceTree = "<group>"; };
+		166C17B726D7AF1F00F13F18 /* SizeClassesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SizeClassesView.swift; sourceTree = "<group>"; };
 		167960E526C83B95006AA684 /* ImagePaintSampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePaintSampleView.swift; sourceTree = "<group>"; };
 		167960E726C83DCB006AA684 /* DrawingGroupSampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingGroupSampleView.swift; sourceTree = "<group>"; };
 		167960E926C97D12006AA684 /* BlurBlendMoreEffectsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlurBlendMoreEffectsView.swift; sourceTree = "<group>"; };
@@ -163,10 +165,11 @@
 				167960E926C97D12006AA684 /* BlurBlendMoreEffectsView.swift */,
 				165599FB26D16963001486A8 /* AnimatingSimpleShapesView.swift */,
 				165599FD26D16C61001486A8 /* AnimatingComplexShapesView.swift */,
+				166C17B526D6AFD200F13F18 /* CustomComponentWithBindingView.swift */,
+				166C17B726D7AF1F00F13F18 /* SizeClassesView.swift */,
 				FDFDB9A82691E77C00B1D099 /* Assets.xcassets */,
 				FDFDB9AD2691E77C00B1D099 /* Info.plist */,
 				FDFDB9AA2691E77C00B1D099 /* Preview Content */,
-				166C17B526D6AFD200F13F18 /* CustomComponentWithBindingView.swift */,
 			);
 			path = LearnSwiftUI;
 			sourceTree = "<group>";
@@ -249,6 +252,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				166C17B826D7AF1F00F13F18 /* SizeClassesView.swift in Sources */,
 				165599FE26D16C61001486A8 /* AnimatingComplexShapesView.swift in Sources */,
 				FDD497A5269242B000BAF5F7 /* ThirdView.swift in Sources */,
 				166308E126A367CC00801CD9 /* ListOfWordsView.swift in Sources */,
