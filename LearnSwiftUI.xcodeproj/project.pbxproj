@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		160A1E1226DBF70D00DC448A /* ActionSheetSampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 160A1E1126DBF70D00DC448A /* ActionSheetSampleView.swift */; };
 		16121C6F26AD8BB400B979BF /* TestAnimationsView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16121C6E26AD8BB400B979BF /* TestAnimationsView1.swift */; };
 		16413C2A26BE9FB800B161E9 /* ExplicitAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16413C2926BE9FB800B161E9 /* ExplicitAnimationView.swift */; };
 		16413C2C26C04A1700B161E9 /* ControllingAnimationStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16413C2B26C04A1700B161E9 /* ControllingAnimationStackView.swift */; };
@@ -49,6 +50,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		160A1E1126DBF70D00DC448A /* ActionSheetSampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetSampleView.swift; sourceTree = "<group>"; };
 		16121C6E26AD8BB400B979BF /* TestAnimationsView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestAnimationsView1.swift; sourceTree = "<group>"; };
 		16413C2926BE9FB800B161E9 /* ExplicitAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExplicitAnimationView.swift; sourceTree = "<group>"; };
 		16413C2B26C04A1700B161E9 /* ControllingAnimationStackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControllingAnimationStackView.swift; sourceTree = "<group>"; };
@@ -167,6 +169,7 @@
 				165599FD26D16C61001486A8 /* AnimatingComplexShapesView.swift */,
 				166C17B526D6AFD200F13F18 /* CustomComponentWithBindingView.swift */,
 				166C17B726D7AF1F00F13F18 /* SizeClassesView.swift */,
+				160A1E1126DBF70D00DC448A /* ActionSheetSampleView.swift */,
 				FDFDB9A82691E77C00B1D099 /* Assets.xcassets */,
 				FDFDB9AD2691E77C00B1D099 /* Info.plist */,
 				FDFDB9AA2691E77C00B1D099 /* Preview Content */,
@@ -262,6 +265,7 @@
 				16413C2C26C04A1700B161E9 /* ControllingAnimationStackView.swift in Sources */,
 				16413C3C26C3BF2400B161E9 /* ResizingImageView.swift in Sources */,
 				16413C3026C0505600B161E9 /* WordsGestureAnimationView.swift in Sources */,
+				160A1E1226DBF70D00DC448A /* ActionSheetSampleView.swift in Sources */,
 				FDFDB9A72691E77900B1D099 /* WeSplitView.swift in Sources */,
 				168981AB26D57A510058BEB5 /* Order.swift in Sources */,
 				16F68A0726C68AE500E3F234 /* NavLinkView.swift in Sources */,
